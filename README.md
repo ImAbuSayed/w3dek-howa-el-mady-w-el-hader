@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في ليالي الغرام
+> نبض قلبي ينادي في الظلام
+> بين روحي وروحك ألف سلام
+> وعدك هو الماضي والحاضر يا غرام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
