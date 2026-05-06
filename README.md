@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | W3dek Howa El Mady W El Hader |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/w3dek-howa-el-mady-w-el-hader/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: W3dek Howa El Mady W El Hader](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
